@@ -1,0 +1,29 @@
+_repo: Niagara--An-Aboriginal-Center-of-Trade_31955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porter, Peter A. (Peter Augustus)
+    alias: Porter, P. A. (Peter Augustus)
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '35573'
+    url: http://www.gutenberg.org/2009/agents/35573
+description: ''
+gutenberg_issued: '2010-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31955'
+  lccn: 08019767
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Niagara Falls (N.Y. and Ont.) -- History'
+- !lcsh 'Niagara Falls (N.Y. and Ont.) -- Commerce -- History'
+- !lcc 'F106'
+title: 'Niagara: An Aboriginal Center of Trade'
+url: http://www.gutenberg.org/ebooks/31955
